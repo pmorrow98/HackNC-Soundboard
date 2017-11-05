@@ -55,7 +55,7 @@ function main(): void {
             addPicture("./bigshaq.jpg");
         }else if (event.keyCode === 75) {
             sound = new Audio("./goodmansnothot/just sauce.mp3");
-            addPicture("./images/Kris.jpeg");
+            addPicture("./images/bigshaq.jpg");
         }else if (event.keyCode === 76) {
             sound = new Audio("./goodmansnothot/yo.mp3");
             addPicture("./bigshaq.jpg");
